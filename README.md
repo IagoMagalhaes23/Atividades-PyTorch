@@ -1,7 +1,7 @@
 # Atividades-PyTorch
 
 ## Implementação da EfficientNet-B0 com pytorch para realizar a classificação de Chihuahuas.
-- Imagem exemplo: 
+- Imagem exemplo: <br>
 ![img_0_302](https://user-images.githubusercontent.com/65053026/220788549-6a7d61ed-b86b-4d81-bc72-1055407bf66f.jpg)
 
 - Resultado: 
